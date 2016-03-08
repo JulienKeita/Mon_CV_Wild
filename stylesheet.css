@@ -1,0 +1,97 @@
+body {
+    background-color: rgb(104,187,285);
+    font-family: "infini"
+}
+
+#header {
+    width: auto;
+    min-height:100px;
+    line-height: 100px;
+    text-align: center;
+    border:1px solid #000000; 
+    background-color: rgb(107,194,234);
+    margin: 10px;
+    color: rgb(9,30,45);
+}
+
+#container {
+    border: 1px solid #000000;
+    margin: 10px;
+    background-color: rgb(107,194,234);
+    height: 980px;
+}
+
+#left-box {
+    background-color: rgb(9,30,45);
+    float: left;
+    height: 92%;
+    width: 30%;
+    margin: 10 10 10px 10px;
+    padding: 10px;
+    color: white;
+    text-align: justify;
+}
+img {
+    padding: 10px 10px 10px 10px; 
+    width: 80%;
+}
+
+#right-box {
+    background-color: rgb(9,30,45);
+    float: right;
+    height: auto;
+    width: 63%;
+    margin: 10 10 10px 10px;
+    padding: 10px;
+}
+
+#experiences-box{
+    border: 1px solid #000000;
+    margin: 10px;
+    background-color: white;
+    height: auto;
+    width: 95%;
+    text-align: center;
+    color: rgb(9,30,45);
+}
+.experience {
+    border: 1px solid #000000;
+    margin: 10px 10px 10px 10px;
+    padding: 10;
+    background-color: rgb(9,30,45);
+    height: 25%;
+    width: 95%;
+    text-align: justify;
+    color: white; 
+    
+}
+#studies-box{
+    border: 1px solid #000000;
+    margin: 10px;
+    background-color: white;
+    height: auto;
+    width: 95%;
+    text-align: center;
+    color: rgb(9,30,45);
+}
+.study {
+    border: 1px solid #000000;
+    margin: 10px 10px 10px 10px;
+    padding: 10;
+    background-color: rgb(9,30,45);
+    height: 25%;
+    width: 95%;
+    text-align: justify;
+    color: white; 
+    
+}
+#footer{
+    width: auto;
+    min-height:100px;
+    text-align: right;
+    border:1px solid #000000; 
+    background-color: rgb(107,194,234);
+    margin: 10px;
+    padding: 30px;
+    color: rgb(9,30,45);
+}
